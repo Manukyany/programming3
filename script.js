@@ -1,3 +1,4 @@
+//my name  is David
 function generator(matLen, gr, grEat, pred, qar, bomb) {
     let matrix = [];
     for (let i = 0; i < matLen; i++) {
